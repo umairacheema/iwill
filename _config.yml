@@ -1,3 +1,5 @@
 remote_theme: pages-themes/tactile@v0.2.0
 plugins:
 - jekyll-remote-theme 
+title: [iWill]
+description: [iWill is an innovative product concept of an AI based multipurpose autonomous home robot that is capable of assisting users with household chores]
